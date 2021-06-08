@@ -1,6 +1,7 @@
 ﻿
 <?php  
 //the night is still young
+//Boomshakalaka
 $con= mysqli_connect("localhost","root","","huatgroup");
 
 if(mysqli_connect_errno())
@@ -9,5 +10,6 @@ if(mysqli_connect_errno())
 }
 
 //hello this is cibai kia
+
 ?> 
 
